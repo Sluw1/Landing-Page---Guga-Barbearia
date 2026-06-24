@@ -1,26 +1,28 @@
-💈 Guga Barbearia - Landing Page
+##💈 Guga Barbearia - Landing Page
 
 Landing page moderna desenvolvida para a Guga Barbearia, com foco em agendamentos online, apresentação de serviços e experiência visual premium.
 
-🚀 Demonstração
+##🚀 Demonstração
 
-🔗 Acesse o projeto online:
+##🔗 Acesse o projeto online:
 https://gugabarbearia.netlify.app
 
-📸 Detalhes
+##📸 Detalhes do projeto
+Hero section impactante com chamada principal
+Galeria de cortes com lightbox interativo
+Botões de agendamento integrados
+Acesso rápido ao WhatsApp e Instagram
+Design moderno com identidade de barbearia
 
-Hero section impactante
-Galeria de cortes
-Botões de agendamento
-WhatsApp e Instagram flutuantes
+##🧰 Tecnologias utilizadas
 
-🧰 Tecnologias utilizadas
 HTML5
-CSS3 (Flexbox + Grid + Responsivo)
+CSS3 (Flexbox + Grid + Responsividade)
 JavaScript (Lightbox da galeria)
 Design responsivo (Mobile First)
 
-✨ Funcionalidades
+##✨ Funcionalidades
+
 📱 Layout totalmente responsivo
 💈 Seção de apresentação da barbearia
 ✂️ Destaque de serviços e benefícios
